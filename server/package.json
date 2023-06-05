@@ -1,0 +1,13 @@
+{
+  "name": "bubbles",
+  "version": "1.0.0",
+  "description": "A project to... efficiently manage all projects.",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "deno run --allow-env --allow-sys main.ts",
+    "build": "deno run --allow-env --allow-sys --unstable main.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
