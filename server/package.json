@@ -5,7 +5,7 @@
   "main": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "deno run --allow-env --allow-sys main.ts",
+    "dev": "deno run --allow-env --allow-sys --watch --allow-write --allow-read --allow-net main.ts",
     "build": "deno run --allow-env --allow-sys --unstable main.ts"
   },
   "author": "",
