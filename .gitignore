@@ -1,3 +1,4 @@
 /server/.env
 /bubbles-front/.env
 /bubbles-front/node_modules
+/server/node_modules
